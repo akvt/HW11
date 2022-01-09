@@ -1,2 +1,2 @@
 ## Master Branch
-This chance is made in master branch
+This change is made in master branch
